@@ -41,7 +41,7 @@ Logistic Regression · K-Nearest Neighbors · Naïve Bayes · Decision Tree · R
 | Random Forest | 0.804 | 0.901 | 0.460 | 0.387 | 0.766 |
 | **Ensemble (RF + NB)** | **0.793** | **0.874** | **0.506** | **0.388** | **0.767** |
 
-**Best model: the RF + NB soft-voting ensemble** — highest AUC (0.767) with the most balanced trade-off between catching defaulters (sensitivity) and limiting false alarms (specificity), making it the most reliable choice for credit-risk screening.
+**Best model: the RF + NB soft-voting ensemble** - highest AUC (0.767) with the most balanced trade-off between catching defaulters (sensitivity) and limiting false alarms (specificity), making it the most reliable choice for credit-risk screening.
 
 ---
 
